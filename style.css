@@ -1,0 +1,46 @@
+h3 {
+
+    box-shadow: 7px 7px 50px darkgreen;
+    font-size: 20px !important;
+    border-radius:20px !important;
+
+}
+
+body {
+
+    background-color: lightblue;
+
+}
+
+.Wi_He {
+
+    color: crimson;
+
+}
+
+.note_1 {
+
+    color: black;
+
+}
+
+#footer{
+
+width:100%;
+position: fixed;
+bottom:0;
+box-shadow:4px 4px 40px;
+background-color: burlywood !important;
+height:fit-content;
+font-size: 30px;
+
+
+}
+
+canvas {
+
+    border: 5px solid black;
+    box-shadow:4px 4px 40px;
+    background-color: rgb(211, 139, 211);
+
+}
